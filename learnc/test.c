@@ -1,7 +1,7 @@
 #include<stdio.h>
 int main()
 {
-	printf("Hello Linux!");
+	printf("Hello Linuxc!");
 	return 0; 
 
 
